@@ -14,7 +14,7 @@
 		75C805BF27D3AD86002C43FB /* blueShadow.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 75C805BE27D3AD86002C43FB /* blueShadow.jpeg */; };
 		75C805C127D3B13F002C43FB /* blurButton.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 75C805C027D3B13F002C43FB /* blurButton.jpeg */; };
 		75C805C327D3B33B002C43FB /* redBlueGradient.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 75C805C227D3B33B002C43FB /* redBlueGradient.jpeg */; };
-		75C805C727D3B43B002C43FB /* topBottomgradient.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 75C805C627D3B43B002C43FB /* topBottomgradient.jpeg */; };
+		75C805C727D3B43B002C43FB /* topBottomGradient.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 75C805C627D3B43B002C43FB /* topBottomGradient.jpeg */; };
 		75C805C927D3B6A5002C43FB /* gradientFillButton.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 75C805C827D3B6A5002C43FB /* gradientFillButton.jpeg */; };
 		75C805CB27D3B9F2002C43FB /* radialGradient.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 75C805CA27D3B9F2002C43FB /* radialGradient.jpeg */; };
 		75C805CD27D3CA32002C43FB /* angleGradient.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 75C805CC27D3CA32002C43FB /* angleGradient.jpeg */; };
@@ -31,7 +31,7 @@
 		75C805BE27D3AD86002C43FB /* blueShadow.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = blueShadow.jpeg; sourceTree = "<group>"; };
 		75C805C027D3B13F002C43FB /* blurButton.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = blurButton.jpeg; sourceTree = "<group>"; };
 		75C805C227D3B33B002C43FB /* redBlueGradient.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = redBlueGradient.jpeg; sourceTree = "<group>"; };
-		75C805C627D3B43B002C43FB /* topBottomgradient.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = topBottomgradient.jpeg; sourceTree = "<group>"; };
+		75C805C627D3B43B002C43FB /* topBottomGradient.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = topBottomGradient.jpeg; sourceTree = "<group>"; };
 		75C805C827D3B6A5002C43FB /* gradientFillButton.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = gradientFillButton.jpeg; sourceTree = "<group>"; };
 		75C805CA27D3B9F2002C43FB /* radialGradient.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = radialGradient.jpeg; sourceTree = "<group>"; };
 		75C805CC27D3CA32002C43FB /* angleGradient.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = angleGradient.jpeg; sourceTree = "<group>"; };
@@ -90,7 +90,7 @@
 			isa = PBXGroup;
 			children = (
 				75C805C027D3B13F002C43FB /* blurButton.jpeg */,
-				75C805C627D3B43B002C43FB /* topBottomgradient.jpeg */,
+				75C805C627D3B43B002C43FB /* topBottomGradient.jpeg */,
 				75C805CC27D3CA32002C43FB /* angleGradient.jpeg */,
 				75C805CA27D3B9F2002C43FB /* radialGradient.jpeg */,
 				75C805CE27D3CC26002C43FB /* gradientStops.jpeg */,
@@ -162,7 +162,7 @@
 				75C805C127D3B13F002C43FB /* blurButton.jpeg in Resources */,
 				75C805C927D3B6A5002C43FB /* gradientFillButton.jpeg in Resources */,
 				75C805CB27D3B9F2002C43FB /* radialGradient.jpeg in Resources */,
-				75C805C727D3B43B002C43FB /* topBottomgradient.jpeg in Resources */,
+				75C805C727D3B43B002C43FB /* topBottomGradient.jpeg in Resources */,
 				75C805C327D3B33B002C43FB /* redBlueGradient.jpeg in Resources */,
 				75C805BF27D3AD86002C43FB /* blueShadow.jpeg in Resources */,
 				75C805B627D3ABD4002C43FB /* Preview Assets.xcassets in Resources */,

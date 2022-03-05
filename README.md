@@ -33,7 +33,7 @@ ZStack {
 Meanwhile, you sometimes need to blur out the background, if you have a modal
 or sheet pop-up on the screen. With that you can simply apply the `.blur(radius: 5)`, or
 set any radius you choose on the elements you want to blur:
-![Blurred button](img/blurButton.jpeg
+![Blurred button](img/blurButton.jpeg)
 
 ## Linear Gradient
 Instead, of using a fancy graphic, we can apply a custom gradient as our background!
