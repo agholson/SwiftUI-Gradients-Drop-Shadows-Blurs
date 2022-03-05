@@ -3,6 +3,14 @@ Notes based on the excellent Code with Chris website Design module one lesson fo
 anyone learning Swift to sign up! You will not have a better and more comprehensive teacher than Chris:
 https://learn.codewithchris.com/courses/take/design/lessons/25824132-lesson-4-gradients-drop-shadows-and-blurs
 
+# Table of contents
+- [Design M1L4: Gradients, Drop Shadows, Blurs](#design-m1l4-gradients-drop-shadows-blurs)
+- [Shapes](#shapes)
+  - [Blue Button with Drop Shadow](#blue-button-with-drop-shadow)
+  - [Blur](#blur)
+  - [Linear Gradient](#linear-gradient)
+  - [Radial Gradients](#radial-gradients)
+
 # Shapes
 ## Blue Button with Drop Shadow
 You can create a special button, even one with its own color of shadow 
